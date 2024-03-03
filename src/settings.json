@@ -1,0 +1,9 @@
+{
+    "name": "Company",
+    "inn": "123456789012",
+    "check": "12345678901",
+    "corr_check": "98765432109",
+    "bik": "987654321",
+    "type_of_company": "ABCDE",
+    "is_first_start": false
+}
